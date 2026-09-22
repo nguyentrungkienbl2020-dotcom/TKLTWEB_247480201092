@@ -1,0 +1,10 @@
+git config --global user.name "nguyentrungkien"
+git config --global user.email "nguyentrungkien.bl2020@gmail.com"
+
+echo "# TKLTWEB_247480201092" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nguyentrungkienbl2020-dotcom/TKLTWEB_247480201092.git
+git push -u origin main
