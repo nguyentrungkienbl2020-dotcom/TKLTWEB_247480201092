@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\QLSV_NguyenNgocKhanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|e:\\qlsv_nguyenngockhanh\\qlsv\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|E:\\QLSV_NguyenNgocKhanh\\qlsv\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|E:\\QLSV_NguyenNgocKhanh\\qlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|E:\\QLSV_NguyenNgocKhanh\\qlsv\\frm\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frm\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|E:\\QLSV_NguyenNgocKhanh\\qlsv\\frm\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frm\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|E:\\QLSV_NguyenNgocKhanh\\qlsv\\frm\\frmqldiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frm\\frmqldiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|E:\\QLSV_NguyenNgocKhanh\\qlsv\\funtions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\funtions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|E:\\QLSV_NguyenNgocKhanh\\qlsv\\frm\\frmqlgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frm\\frmqlgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|E:\\QLSV_NguyenNgocKhanh\\qlsv\\frm\\frmqlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frm\\frmqlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|E:\\QLSV_NguyenNgocKhanh\\qlsv\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|E:\\QLSV_NguyenNgocKhanh\\qlsv\\frm\\frmqlmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frm\\frmqlmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|E:\\QLSV_NguyenNgocKhanh\\qlsv\\frm\\frmqllop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frm\\frmqllop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|E:\\QLSV_NguyenNgocKhanh\\qlsv\\frm\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79AFF72F-7F41-4460-BF05-A24D8989A38D}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frm\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmQLDiem.cs [Design]",
+              "DocumentMoniker": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frm\\frmQLDiem.cs",
+              "RelativeDocumentMoniker": "QLSV\\frm\\frmQLDiem.cs",
+              "ToolTip": "D:\\QLSV_NguyenNgocKhanh\\QLSV\\frm\\frmQLDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-11-10T11:28:48.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Funtions.cs",
+              "DocumentMoniker": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\Funtions.cs",
+              "RelativeDocumentMoniker": "QLSV\\Funtions.cs",
+              "ToolTip": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\Funtions.cs",
+              "RelativeToolTip": "QLSV\\Funtions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T11:28:49.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\Program.cs",
+              "RelativeDocumentMoniker": "QLSV\\Program.cs",
+              "ToolTip": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\Program.cs",
+              "RelativeToolTip": "QLSV\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T11:28:49.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmQLGV.cs [Design]",
+              "DocumentMoniker": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frm\\frmQLGV.cs",
+              "RelativeDocumentMoniker": "QLSV\\frm\\frmQLGV.cs",
+              "ToolTip": "D:\\QLSV_NguyenNgocKhanh\\QLSV\\frm\\frmQLGV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-11-10T11:28:49.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frm\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QLSV\\frm\\frmDangNhap.cs",
+              "ToolTip": "D:\\QLSV_NguyenNgocKhanh\\QLSV\\frm\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-11-10T11:28:49.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frmMenu.cs",
+              "RelativeDocumentMoniker": "QLSV\\frmMenu.cs",
+              "ToolTip": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frmMenu.cs",
+              "RelativeToolTip": "QLSV\\frmMenu.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T11:28:49.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMenu.cs [Design]",
+              "DocumentMoniker": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frmMenu.cs",
+              "RelativeDocumentMoniker": "QLSV\\frmMenu.cs",
+              "ToolTip": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frmMenu.cs [Design]",
+              "RelativeToolTip": "QLSV\\frmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T11:29:03.586Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frm\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QLSV\\frm\\frmDangNhap.cs",
+              "ToolTip": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frm\\frmDangNhap.cs",
+              "RelativeToolTip": "QLSV\\frm\\frmDangNhap.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADgvxcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-11-10T11:29:03.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmQLSV.cs [Design]",
+              "DocumentMoniker": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frm\\frmQLSV.cs",
+              "RelativeDocumentMoniker": "QLSV\\frm\\frmQLSV.cs",
+              "ToolTip": "D:\\QLSV_NguyenNgocKhanh\\QLSV\\frm\\frmQLSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-11-10T11:29:03.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMenu.Designer.cs",
+              "DocumentMoniker": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frmMenu.Designer.cs",
+              "RelativeDocumentMoniker": "QLSV\\frmMenu.Designer.cs",
+              "ToolTip": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frmMenu.Designer.cs",
+              "RelativeToolTip": "QLSV\\frmMenu.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-11-10T11:29:03.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmQLMon.cs [Design]",
+              "DocumentMoniker": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frm\\frmQLMon.cs",
+              "RelativeDocumentMoniker": "QLSV\\frm\\frmQLMon.cs",
+              "ToolTip": "D:\\QLSV\\QLSV\\frm\\frmQLMon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-11-10T11:29:03.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmQLLop.cs [Design]",
+              "DocumentMoniker": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frm\\frmQLLop.cs",
+              "RelativeDocumentMoniker": "QLSV\\frm\\frmQLLop.cs",
+              "ToolTip": "D:\\QLSV\\QLSV\\frm\\frmQLLop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-11-10T11:29:03.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmQuanLyKhoa.cs [Design]",
+              "DocumentMoniker": "E:\\QLSV_NguyenNgocKhanh\\QLSV\\frm\\frmQuanLyKhoa.cs",
+              "RelativeDocumentMoniker": "QLSV\\frm\\frmQuanLyKhoa.cs",
+              "ToolTip": "D:\\QLSV_NguyenNgocKhanh\\QLSV\\frm\\frmQuanLyKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-11-10T11:29:03.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
